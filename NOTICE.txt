@@ -1,0 +1,12 @@
+Copyright 2020 onwards, Chandresh Pant.
+
+All the text / image / code etc used in the blog posts and pages is the property of Chandresh Pant (unless otherwise specified/cited in the text) and not subject to Apache License. Most of this is contained in the folders: _pages, _posts, _word, _notebooks but may be present elsewhere in the code.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FastPages
+Copyright 2020 onwards, fast.ai, Inc
+
+This blog/website source includes software developed at fast.ai, Inc
+
+Portions of this software/code were derived/modified by Chandresh Pant.
