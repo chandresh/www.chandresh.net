@@ -1,1 +1,1 @@
-Sitemap: https://chandresh.github.io/www.chandresh.net/sitemap.xml
+Sitemap: https://chandresh.github.io/sitemap.xml
