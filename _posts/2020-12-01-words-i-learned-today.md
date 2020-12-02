@@ -2,7 +2,7 @@
 toc: false
 layout: post
 description: some words from my daily book reading
-categories: [English, Reading, Words]
+categories: [English, Reading, Words, Vocabulary]
 title: Words I learned today
 comments: true
 ---
@@ -27,6 +27,8 @@ Limpid: Clear. Example: He writes in a limpid style.
 Prosaic: Not challenging. (Like prose rather than poetry). नीरस. 
 Example: The title of your book is so prosaic that most people are going to walk right past it in the store.¹
 
+If I looked up prosaic in the dictionary, it would probably say, “Immune to poetry. See also Mendes comma Sofia.”<sup>8</sup>
+
 Photo Source: <a href="https://memegenerator.net/img/instances/68321734/so-prosaic-and-dull.jpg">Memegenerator.net</a>
 
 Banality: Being banal (a thing that has no original creativity or spark²), Unoriginality. Triviality.
@@ -45,7 +47,6 @@ I, on the other hand, was hired to work in the bar upstairs, a faux upscale tapr
 It might feel that this process is sort of look like a waste of time. But while writing this article and finding correct images and examples for each word has certainly made those words store firmly on my memory.
 
 ----
-
 1.  [https://wordsinasentence.com/prosaic-in-a-sentence](https://wordsinasentence.com/prosaic-in-a-sentence/)
 2.  [https://www.youtube.com/watch?v=Ogx1nnYSn\_U](https://www.youtube.com/watch?v=Ogx1nnYSn_U)
 3.  [https://dictionary.cambridge.org/dictionary/english/riff](https://dictionary.cambridge.org/dictionary/english/riff)
@@ -53,3 +54,11 @@ It might feel that this process is sort of look like a waste of time. But while 
 5.  [https://www.youtube.com/watch?v=k2SJKCxTmrM](https://www.youtube.com/watch?v=k2SJKCxTmrM)
 6.  https://www.collinsdictionary.com/dictionary/english/pretentious
 7.  The Best American Essays 2020 ([https://books.google.co.in/books/about/The\_Best\_American\_Essays\_2020.html?id=9l\_IDwAAQBAJ&redir\_esc=y](https://books.google.co.in/books/about/The_Best_American_Essays_2020.html?id=9l_IDwAAQBAJ&redir_esc=y))
+8.  The Sparrow (p. 242) by Mary Doria Russell. Transworld. Kindle Edition.
+
+
+----
+<small style="font-size: 10px">
+    - Update: 2 December 2020: Added an example from The Sparrow <br/>
+    - Update: 2 December 2020: Added category vocabulary
+</small>
