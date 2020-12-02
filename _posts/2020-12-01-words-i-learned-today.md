@@ -6,8 +6,10 @@ categories: [English, Reading, Words, Vocabulary]
 title: Words I learned today
 comments: true
 ---
-[Link to this section: https://www.chandresh.net/english/reading/words/2020/12/01/words-i-learned-today.html](https://www.chandresh.net/english/reading/words/2020/12/01/words-i-learned-today.html){: .sectionLink}
 
+<div class="sectionLink">
+Read <a href="https://www.chandresh.net/english/reading/words/vocabulary/2020/12/01/words-i-learned-today.html">this story</a> at <a href="https://www.chandresh.net/english/reading/words/vocabulary/2020/12/01/words-i-learned-today.html">Chandresh.net</a>
+</div>   
 
 Most of the times when I read fiction as well as non-fiction books, I understand the meaning of new/difficult words from context but don't think more about these. But I often find myself not able explain the meaning of the word to someone else. I recently changed my habit as an experiment and started noting the words where I have even a slight difficult in understanding and explaining meaning.
 
