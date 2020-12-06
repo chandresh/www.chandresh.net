@@ -16,26 +16,6 @@
   
 
   
-      ,"page1": {
-          "title": "About Me",
-          "content": "",
-          "url": "https://www.chandresh.net/about/",
-          "relUrl": "/about/",
-          "date": ""
-      }
-      
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
   
 
   
@@ -48,7 +28,10 @@
   
 
   
-      ,"page10": {
+  
+
+  
+      ,"page6": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://www.chandresh.net/robots.txt",
