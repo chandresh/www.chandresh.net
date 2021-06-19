@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.chandresh.net/english/reading/words/vocabulary/2020/12/01/words-i-learned-today.html</loc>
-<lastmod>2020-12-01T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>https://www.chandresh.net/_pages/search.html</loc>
-<lastmod>2020-12-06T09:14:22-06:00</lastmod>
-</url>
-<url>
-<loc>https://www.chandresh.net/_pages/tags.html</loc>
-<lastmod>2020-12-06T09:14:22-06:00</lastmod>
+<loc>https://www.chandresh.net/about/</loc>
 </url>
 <url>
 <loc>https://www.chandresh.net/</loc>
-<lastmod>2020-12-06T09:14:22-06:00</lastmod>
+</url>
+<url>
+<loc>https://www.chandresh.net/search/</loc>
+</url>
+<url>
+<loc>https://www.chandresh.net/categories/</loc>
 </url>
 </urlset>
