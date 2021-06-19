@@ -14,4 +14,4 @@ branding:
   icon: 'book'
 runs:
   using: 'docker'
-  image: 'Dockerfile'
+  image: '_action_files/Dockerfile'
