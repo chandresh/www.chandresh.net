@@ -21,11 +21,11 @@ url: "https://www.chandresh.net" # the base hostname & protocol for your site, e
 #
 #### Scenario One: If you do not have a Custom Domain #####
 #    -  if you are not using a custom domain, the baseurl *must* be set to your repo name
-#
+# 
 ####  Scenario Two: If you have a Custom Domain #####
 # 1. If your domain does NOT have a subpath, this leave this value as ""
-# 2. If your domain does have a subpath, you must preceed the value with a / and NOT have a / at the end.
-#      For example:
+# 2. If your domain does have a subpath, you must preceed the value with a / and NOT have a / at the end.  
+#      For example: 
 #           "" is valid
 #           "/blog"        is valid
 #            "/blog/site/" is invalid  ( / at the end)
@@ -49,10 +49,10 @@ use_math: true
 show_description: true
 
 # Set this to true to display image previews on home page, if they exist
-show_image: false
+show_image: true
 
 # Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
-annotations: false
+annotations: true
 
 # Set this to true to display tags on each post
 show_tags: true
@@ -74,6 +74,7 @@ default_badges:
   github: true
   binder: true
   colab: true
+  deepnote: true
 
 # Escape HTML in post descriptions
 html_escape:
@@ -94,7 +95,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  - jekyll-scholar
 
 # See https://jekyllrb.com/docs/pagination/
 # For pagination to work, you cannot have index.md at the root of your repo, instead you must rename this file to index.html
@@ -121,6 +121,6 @@ kramdown:
 feed:
   posts_limit: 5 #default posts_limit: 10
   excerpt_only: true
-
+  
 exclude:
   - settings.ini
